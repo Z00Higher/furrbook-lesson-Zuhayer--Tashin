@@ -8,17 +8,17 @@ function Descriptions() {
         <div className = 'col'>
           <h5 className = 'title-text'>Real Cats</h5>
           <p className = 'sub-text'>
-            Contrary to popular belief, cats aren't loners. At furbook, we know cats need friendship, affection, and comradery. It is 						  our core belief that beneath every cat's hard, angry, exterior there is a pet who jus wants to play and cuddle with a						        friend</p>
+          The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from the wild members of the family.</p>
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Dogs</h5>
           <p className = 'sub-text'>
-            Dogs are man's best friend. But dogs can also be dog's best friend. Maybe even bester than man's best friend. On furbook, 					      you can find millions of other dogs who can be a loyal companion, trusted confidant, and reliable wrestling partner</p>
+          The dog or domestic dog is a domesticated descendant of the wolf, characterized by an upturning tail. The dog derived from an ancient, extinct wolf, and the modern grey wolf is the dog's nearest living relative.</p>
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Friends</h5>
-          <p className = 'sub-text'>s
-            Who says cats and dogs can't get along? Here at Furbook, we believe all pets can be best friends. Our furbook users 					         believe it doesn't matter if you are a cat, dog, rabbit, or ferret; underneath that fur we are all cute, wonderful pets.					 </p>
+          <p className = 'sub-text'>
+             Here at Furbook, we believe all pets can be best friends. we believe it doesn't matter if you are a cat, dog, rabbit, or ferret; underneath that fur we are all cute, wonderful pets. Therefore, cats and dogs can get along with each other.					 </p>
          </div>
       </div>
     </div>
